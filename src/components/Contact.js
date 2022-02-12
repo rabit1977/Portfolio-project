@@ -16,7 +16,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: 'opacity(0.7)' }}
-            src='https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8'
+            src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2958.844327916151!2d21.71470191497534!3d42.132215757453174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13544e3259cef3bd%3A0x85cde4d749aae04!2sIII-ta%20Makedonska%20Udarna%20Brigada%2036%2C%20Kumanovo!5e0!3m2!1sen!2smk!4v1644704640408!5m2!1sen!2smk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"'
           />
           <div className='bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md'>
             <div className='lg:w-1/2 px-6'>

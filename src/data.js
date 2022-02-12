@@ -6,7 +6,7 @@ export const projects = [
     subtitle: 'MERN Stack',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-1.gif',
+    image: './project-1.jpg',
     link: 'https://www.linkedin.com/feed/',
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     subtitle: 'React and Python',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-2.gif',
+    image: './project-2.jpg',
     link: 'https://www.twitch.tv/',
   },
   {
@@ -22,7 +22,7 @@ export const projects = [
     subtitle: 'React and Firebase',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-3.gif',
+    image: './project-3.jpg',
     link: 'https://reactjs.org/docs/getting-started.html',
   },
   {
@@ -30,7 +30,7 @@ export const projects = [
     subtitle: 'React Hooks',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
-    image: './project-4.gif',
+    image: './project-4.jpg',
     link: 'https://www.freecodecamp.org/learn/',
   },
 ];
@@ -51,4 +51,4 @@ export const testimonials = [
   },
 ];
 
-export const skills = ['React', 'Node', 'JavaScript', 'Firebase', 'MongoDB'];
+export const skills = ['React', 'Node', 'JavaScript', 'Firebase', 'MongoDB','ApolloGraphQl'];
